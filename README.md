@@ -6,7 +6,7 @@
 
 <br>
 <p>
-  Este projeto foi desenvolvido junto com Matheus Fraga do sujeito programador em meu curso de ReactJs mas com algumas alterações minhas no layout e também na parte de responsividade.
+  Este projeto foi desenvolvido junto com Matheus Fraga do Sujeito Programador em meu curso de ReactJs mas com algumas alterações minhas no layout e também na parte de responsividade.
 </p>
 <p>Acesse em: https://filmaria-three.vercel.app/</p>
 
