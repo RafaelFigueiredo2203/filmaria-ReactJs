@@ -49,4 +49,4 @@ Filmaria é uma aplicação  para você escolher,assistir e salvar seus filmes .
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-Necer Stop Learning.🚀 🚀 🚀 
+Never Stop Learning.🚀 🚀 🚀 
