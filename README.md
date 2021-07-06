@@ -9,7 +9,7 @@
 </p>
 
 
-  <img src="https://user-images.githubusercontent.com/60237326/123527796-c4dbd580-d6b8-11eb-8b1d-6e1e3dcfeefb.png"/>
+  <img src="https://user-images.githubusercontent.com/60237326/124674232-b8ae0000-de90-11eb-9e79-f0cb28685c61.png"/>
 
   
   ## 🧠 Responsividade
