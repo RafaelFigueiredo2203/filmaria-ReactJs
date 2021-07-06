@@ -17,10 +17,8 @@
   ## 🧠 Responsividade
   
   <h1 align="center">
-  <img width="290px" src="https://user-images.githubusercontent.com/60237326/124674860-f1020e00-de91-11eb-941f-3f33b6a15802.png![Screenshot_20210706-193715]
-"/>
-  <img  width="290px" src="https://user-images.githubusercontent.com/60237326/124674898-ffe8c080-de91-11eb-98d6-6c54f1f01623.png![Screenshot_20210706-193743]
-"/>
+  <img width="290px" src="https://user-images.githubusercontent.com/60237326/124675009-30305f00-de92-11eb-9051-0640d82d692a.png"/>
+  <img  width="290px" src="https://user-images.githubusercontent.com/60237326/124675054-48a07980-de92-11eb-9bad-355aa4e25272.png"/>
   <img width="290px" src="https://user-images.githubusercontent.com/60237326/124674911-09722880-de92-11eb-8992-5d762d32502e.png"/>
   
 
