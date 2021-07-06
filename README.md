@@ -7,6 +7,7 @@
 <p>
   Este projeto foi desenvolvido junto com a Rocketseat na NlwTogether , amei muito participar e estou levando a aplicação para o próximo nível , ja comecei deixando ela responsiva para tela mobile , agradeço muito , pois foi uma semana intensa e com muito conhecimento absorvido.
 </p>
+<p>Acesse em: https://filmaria-three.vercel.app/</p>
 
 
   <img src="https://user-images.githubusercontent.com/60237326/124674232-b8ae0000-de90-11eb-9e79-f0cb28685c61.png"/>
