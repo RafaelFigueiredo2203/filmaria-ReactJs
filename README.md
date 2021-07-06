@@ -30,13 +30,11 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Firebase](https://firebase.google.com/docs)
-- [Sass-css](https://sass-lang.com/documentation)
+
 
 ## 💻 Projeto
 
-O Letmeask é uma aplicação de criação de salas sobre perguntas e respostas para usuarios interagirem .
+Filmaria é uma aplicação de para você escolher,assistir e salvar seus filmes .
 
 
 
@@ -49,4 +47,4 @@ O Letmeask é uma aplicação de criação de salas sobre perguntas e respostas 
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-Feito com muito esforço e dedicação , mais uma vez obrigado Rocketseat.🚀 🚀 🚀 
+Necer Stop Learning.🚀 🚀 🚀 
