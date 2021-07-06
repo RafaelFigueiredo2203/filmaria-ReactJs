@@ -1,0 +1,78 @@
+
+#meus-filmes{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  padding: 0;
+}
+
+ul li{
+  padding: 0;
+  list-style: none;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+span{
+  font-size: 23px;
+}
+
+button{
+  margin-left: 10px;
+  cursor: pointer;
+  border: #fff;
+  border-radius: 2px;
+  font-size: 15px;
+}
+button:hover{
+  background-color: brown;
+  color: #fff;
+}
+
+ul li div a{
+  text-decoration: none;
+  color: brown;
+}
+
+
+@media screen and (max-width: 705px) {
+    ul li{
+   
+    width: 500px;
+    
+  }
+}
+@media screen and (max-width: 578px) {
+  ul li{
+    
+    width: 450px;
+    
+  }
+  span{
+    font-size: 18px;
+  }
+ 
+}
+@media screen and (max-width: 462px) {
+  ul li{
+    
+    width: 300px;
+    flex-direction: column;
+    padding: 5px;
+   
+  }
+  
+  span{
+    padding: 3px;
+    font-size: 18px;
+  }
+  
+}

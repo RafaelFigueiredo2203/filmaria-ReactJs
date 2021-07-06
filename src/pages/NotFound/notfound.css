@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@1,700&display=swap');
+
+div.bd{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+h1.err{
+  font-family:'Amiri', sans-serif ;
+  font-size: 60pt;
+}
+h2{
+  font-family: 'Amiri', sans-serif;
+  font-size: 30pt;
+}
+
+.btn-rgb a{
+  position: relative;
+  color: #f5f5f5;
+  height: 70px;
+  width: 220px;
+  display: block;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+  background-image: linear-gradient(115deg,#4fcf70,#fad648,#a767e5,#12bcfe,#44ce7b);
+  animation: rotate 0.4s linear infinite;
+  
+}
+.btn-rgb a:hover{
+  animation: rotate 0.4s linear infinite;
+}
+.btn-rgb a span:active{
+  background-image: linear-gradient(115deg,#4fcf70,#fad648,#a767e5,#12bcfe,#44ce7b);
+}
+@keyframes rotate {
+  100%{
+    filter: hue-rotate(-360deg)
+  }
+}
+.btn-rgb a span{
+  height: 88%;
+  width: 96%;
+  background: #111;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 6px;
+  line-height: 62px;
+  font-size: 25px;
+  transform: translate(-50%, -50%);
+}
