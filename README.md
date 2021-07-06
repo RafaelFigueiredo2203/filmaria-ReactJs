@@ -1,4 +1,4 @@
-<h1 align="center" color="red">
+<h1 align="center" color='red'>
   Filmaria
 </h1>
 
