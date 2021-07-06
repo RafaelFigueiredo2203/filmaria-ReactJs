@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Filmaria é uma aplicação de para você escolher,assistir e salvar seus filmes .
+Filmaria é uma aplicação  para você escolher,assistir e salvar seus filmes .
 
 
 
