@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img src="src/assets/images/logo.svg">
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<br>
+<p>
+  Este projeto foi desenvolvido junto com a Rocketseat na NlwTogether , amei muito participar e estou levando a aplicação para o próximo nível , ja comecei deixando ela responsiva para tela mobile , agradeço muito , pois foi uma semana intensa e com muito conhecimento absorvido.
+</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+  <img src="https://user-images.githubusercontent.com/60237326/123527796-c4dbd580-d6b8-11eb-8b1d-6e1e3dcfeefb.png"/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  
+  ## 🧠 Responsividade
+  
+  <h1 align="center">
+  <img width="290px" src="https://user-images.githubusercontent.com/60237326/123527847-47649500-d6b9-11eb-9b07-08a6fa7a772d.png"/>
+  <img  width="290px" src="https://user-images.githubusercontent.com/60237326/123527961-1cc70c00-d6ba-11eb-9aef-6c3038d5f8ad.png"/>
+  <img width="290px" src="https://user-images.githubusercontent.com/60237326/123527979-454f0600-d6ba-11eb-8150-9b45ecb0dd0a.png"/>
+  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  </h1>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✨ Tecnologias
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/docs)
+- [Sass-css](https://sass-lang.com/documentation)
 
-### `yarn eject`
+## 💻 Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O Letmeask é uma aplicação de criação de salas sobre perguntas e respostas para usuarios interagirem .
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🚀 Como executar
 
-## Learn More
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com muito esforço e dedicação , mais uma vez obrigado Rocketseat.🚀 🚀 🚀 
